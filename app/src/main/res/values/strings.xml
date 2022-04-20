@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Foody</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="confirm">Confirm Password</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="no_account">If you do not have an account ? Sign Up here!</string>
+    <string name="have_account">If you already have an account ? Sign in here!</string>
 </resources>
