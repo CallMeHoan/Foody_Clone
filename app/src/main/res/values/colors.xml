@@ -10,4 +10,6 @@
     <color name="gray">#939393</color>
     <color name="blue">#00B0F0</color>
     <color name="light_purple">#B855D3</color>
+    <color name="light_gray">#F2ECE9E9</color>
+    <color name="light_brown">#A36C25</color>
 </resources>

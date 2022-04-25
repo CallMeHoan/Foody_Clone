@@ -3,6 +3,22 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Nam3_Ki2/mobile/Foodee/Foody_Clone/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.221" />
+        <entry key="..\:/Nam3_Ki2/mobile/Foodee/Foody_Clone/app/src/main/res/drawable/button_blue.xml" value="0.221" />
+        <entry key="..\:/Nam3_Ki2/mobile/Foodee/Foody_Clone/app/src/main/res/drawable/button_purple.xml" value="0.221" />
+        <entry key="..\:/Nam3_Ki2/mobile/Foodee/Foody_Clone/app/src/main/res/drawable/ic_cart4.xml" value="0.221" />
+        <entry key="..\:/Nam3_Ki2/mobile/Foodee/Foody_Clone/app/src/main/res/drawable/ic_dash.xml" value="0.221" />
+        <entry key="..\:/Nam3_Ki2/mobile/Foodee/Foody_Clone/app/src/main/res/drawable/ic_launcher_background.xml" value="0.221" />
+        <entry key="..\:/Nam3_Ki2/mobile/Foodee/Foody_Clone/app/src/main/res/drawable/ic_plus.xml" value="0.221" />
+        <entry key="..\:/Nam3_Ki2/mobile/Foodee/Foody_Clone/app/src/main/res/drawable/input_box.xml" value="0.221" />
+        <entry key="..\:/Nam3_Ki2/mobile/Foodee/Foody_Clone/app/src/main/res/drawable/value_box.xml" value="0.221" />
+        <entry key="..\:/Nam3_Ki2/mobile/Foodee/Foody_Clone/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Nam3_Ki2/mobile/Foodee/Foody_Clone/app/src/main/res/layout/cart_page.xml" value="0.25" />
+        <entry key="..\:/Nam3_Ki2/mobile/Foodee/Foody_Clone/app/src/main/res/layout/cart_view.xml" value="0.25" />
+        <entry key="..\:/Nam3_Ki2/mobile/Foodee/Foody_Clone/app/src/main/res/layout/detail_page.xml" value="0.25" />
+        <entry key="..\:/Nam3_Ki2/mobile/Foodee/Foody_Clone/app/src/main/res/layout/order_cart.xml" value="0.2" />
+        <entry key="..\:/Nam3_Ki2/mobile/Foodee/Foody_Clone/app/src/main/res/layout/signin_page.xml" value="0.22685185185185186" />
+        <entry key="..\:/Nam3_Ki2/mobile/Foodee/Foody_Clone/app/src/main/res/layout/signup_page.xml" value="0.25" />
         <entry key="..\:/Nam3_Ki2/mobile/Foody/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2555" />
         <entry key="..\:/Nam3_Ki2/mobile/Foody/app/src/main/res/drawable/button.xml" value="0.2555" />
         <entry key="..\:/Nam3_Ki2/mobile/Foody/app/src/main/res/drawable/button_purple.xml" value="0.2555" />
