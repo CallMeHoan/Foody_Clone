@@ -8,17 +8,34 @@
         <entry key="..\:/Nam3_Ki2/mobile/Foodee/Foody_Clone/app/src/main/res/drawable/button_purple.xml" value="0.221" />
         <entry key="..\:/Nam3_Ki2/mobile/Foodee/Foody_Clone/app/src/main/res/drawable/ic_cart4.xml" value="0.221" />
         <entry key="..\:/Nam3_Ki2/mobile/Foodee/Foody_Clone/app/src/main/res/drawable/ic_dash.xml" value="0.221" />
+        <entry key="..\:/Nam3_Ki2/mobile/Foodee/Foody_Clone/app/src/main/res/drawable/ic_icons8_home.xml" value="0.1325" />
         <entry key="..\:/Nam3_Ki2/mobile/Foodee/Foody_Clone/app/src/main/res/drawable/ic_launcher_background.xml" value="0.221" />
+        <entry key="..\:/Nam3_Ki2/mobile/Foodee/Foody_Clone/app/src/main/res/drawable/ic_logout.xml" value="0.221" />
+        <entry key="..\:/Nam3_Ki2/mobile/Foodee/Foody_Clone/app/src/main/res/drawable/ic_person_fill.xml" value="0.1325" />
         <entry key="..\:/Nam3_Ki2/mobile/Foodee/Foody_Clone/app/src/main/res/drawable/ic_plus.xml" value="0.221" />
+        <entry key="..\:/Nam3_Ki2/mobile/Foodee/Foody_Clone/app/src/main/res/drawable/ic_search.xml" value="0.1" />
         <entry key="..\:/Nam3_Ki2/mobile/Foodee/Foody_Clone/app/src/main/res/drawable/input_box.xml" value="0.221" />
+        <entry key="..\:/Nam3_Ki2/mobile/Foodee/Foody_Clone/app/src/main/res/drawable/rounded.xml" value="0.221" />
+        <entry key="..\:/Nam3_Ki2/mobile/Foodee/Foody_Clone/app/src/main/res/drawable/search_box.xml" value="0.1" />
         <entry key="..\:/Nam3_Ki2/mobile/Foodee/Foody_Clone/app/src/main/res/drawable/value_box.xml" value="0.221" />
         <entry key="..\:/Nam3_Ki2/mobile/Foodee/Foody_Clone/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Nam3_Ki2/mobile/Foodee/Foody_Clone/app/src/main/res/layout/cart_page.xml" value="0.25" />
         <entry key="..\:/Nam3_Ki2/mobile/Foodee/Foody_Clone/app/src/main/res/layout/cart_view.xml" value="0.25" />
         <entry key="..\:/Nam3_Ki2/mobile/Foodee/Foody_Clone/app/src/main/res/layout/detail_page.xml" value="0.25" />
+        <entry key="..\:/Nam3_Ki2/mobile/Foodee/Foody_Clone/app/src/main/res/layout/food_item.xml" value="0.25" />
+        <entry key="..\:/Nam3_Ki2/mobile/Foodee/Foody_Clone/app/src/main/res/layout/fragment_food.xml" value="0.25" />
+        <entry key="..\:/Nam3_Ki2/mobile/Foodee/Foody_Clone/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Nam3_Ki2/mobile/Foodee/Foody_Clone/app/src/main/res/layout/fragment_profile.xml" value="0.2359375" />
+        <entry key="..\:/Nam3_Ki2/mobile/Foodee/Foody_Clone/app/src/main/res/layout/fragment_restaurant.xml" value="0.25" />
+        <entry key="..\:/Nam3_Ki2/mobile/Foodee/Foody_Clone/app/src/main/res/layout/home_item.xml" value="0.25" />
+        <entry key="..\:/Nam3_Ki2/mobile/Foodee/Foody_Clone/app/src/main/res/layout/homepage.xml" value="0.176" />
         <entry key="..\:/Nam3_Ki2/mobile/Foodee/Foody_Clone/app/src/main/res/layout/order_cart.xml" value="0.2" />
+        <entry key="..\:/Nam3_Ki2/mobile/Foodee/Foody_Clone/app/src/main/res/layout/profile_item.xml" value="0.20277777777777778" />
+        <entry key="..\:/Nam3_Ki2/mobile/Foodee/Foody_Clone/app/src/main/res/layout/profile_itemm.xml" value="0.25" />
+        <entry key="..\:/Nam3_Ki2/mobile/Foodee/Foody_Clone/app/src/main/res/layout/restaurant_item.xml" value="0.25" />
         <entry key="..\:/Nam3_Ki2/mobile/Foodee/Foody_Clone/app/src/main/res/layout/signin_page.xml" value="0.22685185185185186" />
         <entry key="..\:/Nam3_Ki2/mobile/Foodee/Foody_Clone/app/src/main/res/layout/signup_page.xml" value="0.25" />
+        <entry key="..\:/Nam3_Ki2/mobile/Foodee/Foody_Clone/app/src/main/res/menu/home_item.xml" value="0.25" />
         <entry key="..\:/Nam3_Ki2/mobile/Foody/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2555" />
         <entry key="..\:/Nam3_Ki2/mobile/Foody/app/src/main/res/drawable/button.xml" value="0.2555" />
         <entry key="..\:/Nam3_Ki2/mobile/Foody/app/src/main/res/drawable/button_purple.xml" value="0.2555" />
